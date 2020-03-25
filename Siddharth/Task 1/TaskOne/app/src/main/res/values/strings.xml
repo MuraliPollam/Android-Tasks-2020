@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskOne</string>
+    <string name="one">Image One</string>
+    <string name="two">Image Two</string>
+    <string name="three">Image Three</string>
+    <string name="four">Image Four</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+</resources>
